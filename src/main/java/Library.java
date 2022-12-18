@@ -490,7 +490,7 @@ public class Library {
     public static void playlistInterface(Scanner sc) {
         System.out.println("-----------------------------------------------------------------------------------");
         System.out.println("What would you like to do with playlist?");
-        System.out.println(" 1 -- View my playlist (please go to search albums/songs to add songs to playlist first.");
+        System.out.println(" 1 -- View my playlist (please go to search albums/songs to add songs to playlist first)");
         System.out.println(" 2 -- Generate an XML file containing my playlist");
         System.out.println(" 3 -- Back to main menu");
         System.out.println("Please enter your choice, eg. '1'.");
