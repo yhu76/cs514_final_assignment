@@ -5,6 +5,7 @@ public class Artist {
     protected String artist_name;
     protected int artist_id;
 
+    // constructor
     public Artist(int artist_id, String artist_name) {
         this.artist_id = artist_id;
         this.artist_name = artist_name.trim();
